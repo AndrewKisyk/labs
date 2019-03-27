@@ -1,0 +1,7 @@
+6
+1 200 300 multicolored formal *.raw
+0 4 5 blackAndwhite informal whitepaper
+1 600 1800 multicolored informal *.jpg
+1 400 400 multicolored informal *.png
+0 3 4 multicolored formal whitepaper
+0 8 10 multicolored informal colorpaper
